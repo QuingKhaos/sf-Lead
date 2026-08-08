@@ -3,13 +3,13 @@
 	"Version": 1,
 	"VersionName": "1.0.0",
 	"SemVersion": "1.0.0",
-	"FriendlyName": "###TITLE###",
-	"Description": "###DESC###",
+	"FriendlyName": "Lead",
+	"Description": "Adds lead ore and plates to the base game as an early game resource. Lead is used in ammunition, pipes, batteries and a few other places.",
 	"Category": "Modding",
 	"CreatedBy": "QuingKhaos",
 	"CreatedByURL": "https://github.com/QuingKhaos",
 	"DocsURL": "",
-	"MarketplaceURL": "https://ficsit.app/mod/###NAME###",
+	"MarketplaceURL": "https://ficsit.app/mod/Lead",
 	"SupportURL": "https://discord.gg/B3qJBE3M9W",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
@@ -18,12 +18,17 @@
 	"BuiltInInitialFeatureState": "Active",
 	"Modules": [
 		{
-			"Name": "###NAME###",
+			"Name": "Lead",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
+		{
+			"Name": "KBFL",
+			"Enabled": true,
+			"SemVersion": "^2026.3.434"
+		},
 		{
 			"Name": "SML",
 			"Enabled": true,

@@ -2,9 +2,9 @@ using UnrealBuildTool;
 using System.IO;
 using System;
 
-public class ###NAME### : ModuleRules
+public class Lead : ModuleRules
 {
-	public ###NAME###(ReadOnlyTargetRules Target) : base(Target)
+	public Lead(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 		CppStandard = CppStandardVersion.Cpp20;
