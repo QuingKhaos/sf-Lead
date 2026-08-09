@@ -44,6 +44,10 @@ Legend: Green = Pure, Orange = Normal, Red = Impure
 
 ![Copper Rotor alternate recipe](https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Recipe_Alternate_CopperRotor.png?raw=true)
 
+## Credits
+
+- Lead Expansion Bolt model by [The Urban Goose](https://ficsit.app/user/7Bq8NxqGa8tGtJ), thank you so much!
+
 ## License
 
 This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.
