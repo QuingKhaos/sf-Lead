@@ -16,11 +16,11 @@
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"BuiltInInitialFeatureState": "Active",
-	"Modules": [
+	"LocalizationTargets": [
 		{
 			"Name": "Lead",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPolicy": "Always",
+			"ConfigGenerationPolicy": "Never"
 		}
 	],
 	"Plugins": [

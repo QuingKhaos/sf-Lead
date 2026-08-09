@@ -1,0 +1,66 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Lead",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Alternate: Catalytic Sulfuric Acid"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "CatalyticSulfuricAcid/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lead Expansion Bolt"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "LeadExpansionBolt/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lead Ingot"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "LeadIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lead Ore"
+					},
+					"Translation":
+					{
+						"Text": "铅矿"
+					},
+					"Key": "LeadOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lead Plate"
+					},
+					"Translation":
+					{
+						"Text": "铅板"
+					},
+					"Key": "LeadPlate/Name"
+				}
+			]
+		}
+	]
+}
