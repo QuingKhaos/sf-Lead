@@ -1,8 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.2
-Date: ????
+Date: 2026-08-09
   Bugfixes:
-    - Ensure access transformers for custom icon libary are present.
+    - Ensure access transformers for custom icon library are present.
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 2026-08-09
