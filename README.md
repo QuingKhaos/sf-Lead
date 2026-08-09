@@ -2,7 +2,39 @@
 
 # Lead
 
-Adds lead ore and plates to the base game as an early game resource. Lead is used in ammunition, pipes, batteries and a few other places.
+Adds lead ore and plates to the base game as an early game resource. Lead is used in ammunition, pipes, and a few other places.
+
+## What's in this mod?
+
+Lead is used mostly as a base building resource, but it is also used in some ammunition and other items.
+
+### Lead Ore
+
+Lead Ore node placement is preliminary and subject to change.
+
+### Lead Ingot
+
+![Lead Ingot recipe](https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Recipe_LeadIngot.png?raw=true)
+
+### Lead Plate
+
+![Lead Plate recipe](https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Recipe_LeadPlate.png?raw=true)
+
+![Catalytic Sulfuric Acid alternate recipe](https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Recipe_Alternate_CatalyticSulfuricAcid.png?raw=true)
+
+![Rifle Ammo recipe](https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Recipe_RifleAmmo.png?raw=true)
+
+![Encased Uranium Cell recipe](https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Recipe_EncasedUraniumCell.png?raw=true)
+
+![Encased Plutonium Cell recipe](https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Recipe_EncasedPlutoniumCell.png?raw=true)
+
+### Lead Expansion Bolt
+
+![Lead Expansion Bolt recipe](https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Recipe_LeadExpansionBolt.png?raw=true)
+
+![Rotor recipe](https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Recipe_Rotor.png?raw=true)
+
+![Copper Rotor alternate recipe](https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Recipe_Alternate_CopperRotor.png?raw=true)
 
 ## License
 
