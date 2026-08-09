@@ -23,13 +23,6 @@
 			"ConfigGenerationPolicy": "Never"
 		}
 	],
-	"Modules": [
-		{
-			"Name": "Lead",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "KBFL",

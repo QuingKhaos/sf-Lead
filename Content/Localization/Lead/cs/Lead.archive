@@ -8,6 +8,17 @@
 				{
 					"Source":
 					{
+						"Text": "Alternate: Catalytic Sulfuric Acid"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "CatalyticSulfuricAcid/Recipe"
+				},
+				{
+					"Source":
+					{
 						"Text": "Lead Expansion Bolt"
 					},
 					"Translation":

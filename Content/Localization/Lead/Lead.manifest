@@ -8,6 +8,18 @@
 				{
 					"Source":
 					{
+						"Text": "Alternate: Catalytic Sulfuric Acid"
+					},
+					"Keys": [
+						{
+							"Key": "CatalyticSulfuricAcid/Recipe",
+							"Path": "/Lead/ST_Lead.ST_Lead"
+						}
+					]
+				},
+				{
+					"Source":
+					{
 						"Text": "Lead Expansion Bolt"
 					},
 					"Keys": [
