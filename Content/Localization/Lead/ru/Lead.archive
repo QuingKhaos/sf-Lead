@@ -1,0 +1,55 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Lead",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Lead Expansion Bolt"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "LeadExpansionBolt/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lead Ingot"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "LeadIngot/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lead Ore"
+					},
+					"Translation":
+					{
+						"Text": "Свинцовая руда"
+					},
+					"Key": "LeadOre/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Lead Plate"
+					},
+					"Translation":
+					{
+						"Text": "Свинцовая плита"
+					},
+					"Key": "LeadPlate/Name"
+				}
+			]
+		}
+	]
+}
