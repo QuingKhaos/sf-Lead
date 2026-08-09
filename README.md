@@ -4,13 +4,21 @@
 
 Adds lead ore and plates to the base game as an early game resource. Lead is used in ammunition, pipes, and a few other places.
 
+If you need to plan things out, you can use my [custom database](https://github.com/QuingKhaos/KhaosSatisfactoryModelerData) for Satisfactory Modeler.
+
 ## What's in this mod?
 
 Lead is used mostly as a base building resource, but it is also used in some ammunition and other items.
 
 ### Lead Ore
 
-Lead Ore node placement is preliminary and subject to change.
+Lead Ore node placement is preliminary and subject to change based on playtesting and feedback.
+
+<details>
+<summary>Map (spoiler!)</summary>
+<img src="https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Map.png?raw=true" alt="Map" width="100%" /> <!-- markdownlint-disable MD044 --> <br />
+Legend: Green = Pure, Orange = Normal, Red = Impure
+</details>
 
 ### Lead Ingot
 
