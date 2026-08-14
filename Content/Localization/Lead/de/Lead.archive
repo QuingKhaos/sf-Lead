@@ -12,7 +12,7 @@
 					},
 					"Translation":
 					{
-						"Text": ""
+						"Text": "Alternative: Katalytische Schwefelsäure"
 					},
 					"Key": "CatalyticSulfuricAcid/Recipe"
 				},
@@ -23,7 +23,7 @@
 					},
 					"Translation":
 					{
-						"Text": ""
+						"Text": "Bleispreizdübel"
 					},
 					"Key": "LeadExpansionBolt/Name"
 				},
@@ -34,7 +34,7 @@
 					},
 					"Translation":
 					{
-						"Text": ""
+						"Text": "Bleibarren"
 					},
 					"Key": "LeadIngot/Name"
 				},
