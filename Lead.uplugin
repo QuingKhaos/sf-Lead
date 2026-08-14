@@ -32,7 +32,7 @@
 		{
 			"Name": "KhaosLib",
 			"Enabled": true,
-			"SemVersion": "^1.1.0"
+			"SemVersion": "^1.1.1"
 		},
 		{
 			"Name": "SML",
