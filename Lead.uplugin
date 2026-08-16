@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.2.1",
-	"SemVersion": "0.2.1",
+	"VersionName": "0.3.0",
+	"SemVersion": "0.3.0",
 	"FriendlyName": "Lead",
 	"Description": "Adds lead ore and plates to the base game as an early game resource. Lead is used in ammunition, pipes, and a few other places.",
 	"Category": "Modding",
@@ -25,6 +25,11 @@
 	],
 	"Plugins": [
 		{
+			"Name": "ExtendedMachines",
+			"Enabled": true,
+			"SemVersion": "^1.0.0"
+		},
+		{
 			"Name": "KBFL",
 			"Enabled": true,
 			"SemVersion": "^2026.3.434"
@@ -32,7 +37,7 @@
 		{
 			"Name": "KhaosLib",
 			"Enabled": true,
-			"SemVersion": "^1.1.1"
+			"SemVersion": "^1.2.0"
 		},
 		{
 			"Name": "SML",
