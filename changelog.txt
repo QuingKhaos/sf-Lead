@@ -3,6 +3,13 @@ Version: 0.3.1
 Date: ????
   Changes:
     - Improve LODs.
+  Locale:
+    - Add partial French translation.
+    - Add partial Hungarian translation.
+    - Add partial Portuguese (Brazil) translation.
+    - Add partial Spanish (Spain) translation.
+    - Add partial Turkish translation.
+    - Add partial Ukrainian translation.
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.0
 Date: 2026-08-16
