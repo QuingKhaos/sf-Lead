@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.2
-Date: ????
+Date: 2026-08-21
   Locale:
     - Add partial Chinese (Traditional) translation.
     - Add missing Turkish translation.
