@@ -1,0 +1,22 @@
+---
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_PipelineMK2.Recipe_PipelineMK2_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 0
+        value:
+          ItemClass: /Lead/Resources/LeadPlate/Desc_LeadPlate.Desc_LeadPlate_C
+          Amount: 2
+---
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_PipelineMK2_NoIndicator.Recipe_PipelineMK2_NoIndicator_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 0
+        value:
+          ItemClass: /Lead/Resources/LeadPlate/Desc_LeadPlate.Desc_LeadPlate_C
+          Amount: 2

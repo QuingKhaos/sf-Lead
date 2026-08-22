@@ -1,0 +1,44 @@
+---
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_Pipeline.Recipe_Pipeline_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 0
+        value:
+          ItemClass: /Lead/Resources/LeadPlate/Desc_LeadPlate.Desc_LeadPlate_C
+          Amount: 1
+---
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_Pipeline_NoIndicator.Recipe_Pipeline_NoIndicator_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 0
+        value:
+          ItemClass: /Lead/Resources/LeadPlate/Desc_LeadPlate.Desc_LeadPlate_C
+          Amount: 1
+---
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_PipelineJunction_Cross.Recipe_PipelineJunction_Cross_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 0
+        value:
+          ItemClass: /Lead/Resources/LeadPlate/Desc_LeadPlate.Desc_LeadPlate_C
+          Amount: 1
+---
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_PipelineJunction_T.Recipe_PipelineJunction_T_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 0
+        value:
+          ItemClass: /Lead/Resources/LeadPlate/Desc_LeadPlate.Desc_LeadPlate_C
+          Amount: 1

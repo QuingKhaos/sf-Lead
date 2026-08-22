@@ -1,0 +1,11 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_StreetLight.Recipe_StreetLight_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 2
+        value:
+          ItemClass: /Lead/Resources/LeadExpansionBolt/Desc_LeadExpansionBolt.Desc_LeadExpansionBolt_C
+          Amount: 4
+

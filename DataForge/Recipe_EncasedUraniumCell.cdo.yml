@@ -1,0 +1,11 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Assembler/Recipe_UraniumCell.Recipe_UraniumCell_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 1
+        value:
+          ItemClass: /Lead/Resources/LeadPlate/Desc_LeadPlate.Desc_LeadPlate_C
+          Amount: 3
+

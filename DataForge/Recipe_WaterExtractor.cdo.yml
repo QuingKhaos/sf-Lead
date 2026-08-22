@@ -1,0 +1,11 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_WaterPump.Recipe_WaterPump_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 0
+        value:
+          ItemClass: /Lead/Resources/LeadPlate/Desc_LeadPlate.Desc_LeadPlate_C
+          Amount: 20
+

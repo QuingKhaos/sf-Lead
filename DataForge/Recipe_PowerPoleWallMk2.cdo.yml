@@ -1,0 +1,11 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_PowerPoleWallMk2.Recipe_PowerPoleWallMk2_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 1
+        value:
+          ItemClass: /Lead/Resources/LeadExpansionBolt/Desc_LeadExpansionBolt.Desc_LeadExpansionBolt_C
+          Amount: 2
+

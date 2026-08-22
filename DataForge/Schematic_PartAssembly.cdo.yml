@@ -1,0 +1,10 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Schematics/Progression/Schematic_2-1.Schematic_2-1_C
+    properties:
+      - path: mCost
+        op: replace
+        index: 3
+        value:
+          ItemClass: /Lead/Resources/LeadPlate/Desc_LeadPlate.Desc_LeadPlate_C
+          Amount: 300

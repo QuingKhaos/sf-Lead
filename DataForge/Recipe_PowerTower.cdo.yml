@@ -1,0 +1,10 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Buildings/Recipe_PowerTower.Recipe_PowerTower_C
+    properties:
+      - path: mIngredients
+        op: append
+        value:
+          ItemClass: /Lead/Resources/LeadExpansionBolt/Desc_LeadExpansionBolt.Desc_LeadExpansionBolt_C
+          Amount: 20
+
