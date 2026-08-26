@@ -24,6 +24,8 @@ Legend: Green = Pure, Orange = Normal, Red = Impure
 
 ![Lead Ingot recipe](https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Recipe_LeadIngot.png?raw=true)
 
+A separate Lead Ingot recipe is created without copper byproduct, which can be exclusively crafted in workbenchs.
+
 ### Lead Plate
 
 ![Lead Plate recipe](https://github.com/QuingKhaos/sf-Lead/blob/0.x/.github/images/Recipe_LeadPlate.png?raw=true)
