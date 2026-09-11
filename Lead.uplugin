@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.6.1",
-	"SemVersion": "0.6.1",
+	"VersionName": "0.6.2",
+	"SemVersion": "0.6.2",
 	"FriendlyName": "Lead",
 	"Description": "Adds lead ore and plates to the base game as an early game resource. Lead is used in ammunition, pipes, and a few other places.",
 	"Category": "Modding",
